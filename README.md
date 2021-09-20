@@ -13,7 +13,7 @@
 <p>Straight from São Paulo Brazil, I am a lover of technology and everything around it. I'm always learning and willing to take on new challenges.
 </p>
 
-To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" href="https://davidalmeida.xyz/">Personal Portfolio</a>, there you can view my full profile.
+To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" href="http://davidalmeida.xyz/">Personal Portfolio</a>, there you can view my full profile.
 
 ##
 

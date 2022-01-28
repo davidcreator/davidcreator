@@ -76,7 +76,7 @@ const David = {
 </div>
 <br> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?DavidAlmeidaDesigner=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
   
 <h3>🔍 Fun facts:</h3>
 

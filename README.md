@@ -76,7 +76,8 @@ const David = {
 </div>
 <br> -->
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?DavidAlmeidaDesigner=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+  
 <h3>🔍 Fun facts:</h3>
 
 ![Snake animation](https://github.com/Pleiterson/Pleiterson/blob/output/github-contribution-grid-snake.svg)

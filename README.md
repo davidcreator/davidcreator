@@ -18,21 +18,21 @@ To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" hr
 ##
 
 <!-- Badges session -->
-<span><img src="https://visitor-badge.laobi.icu/badge?page_id=DavidAlmeidaDesigner" alt="David Almeida"/></span>
-<a href="https://github.com/DavidAlmeidaDesigner" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=lat-square&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://gitlab.com/DavidAlmeidaDesigner" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitLab-330F63?style=lat-square&logo=gitlab&logoColor=white" alt="GitLab"></a>
+<span><img src="https://visitor-badge.laobi.icu/badge?page_id=DavidCreator" alt="David Almeida"/></span>
+<a href="https://github.com/DavidCreator" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=lat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://gitlab.com/DavidCreator" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitLab-330F63?style=lat-square&logo=gitlab&logoColor=white" alt="GitLab"></a>
 <a href="https://pt.stackoverflow.com/users/251689/david-l-almeida" target="_blank" rel="noopener noreferrer"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="StackOverflow"></a>
 <a href="https://www.linkedin.com/in/david-creator" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=lat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.youtube.com/channel/UC550vQ7J_Tgx0L1CWQqNO1Q" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=lat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://twitter.com/DavidAlmeidaDes" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=lat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.instagram.com/davidalmeidades/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=lat-square&logo=instagram&logoColor=white" alt="site"></a>
-<a href="https://www.facebook.com/davidalmeidadesigner" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=lat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.facebook.com/DavidCreator" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=lat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://davidcreator.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/website?up_color=green&up_message=davidcreator.com&url=https%3A%2F%2Fdavidcreator.com" alt="Xbox"></a><br>
 
 <div align="center">
-  <a href="https://github.com/DavidAlmeidaDesigner">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidAlmeidaDesigner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidAlmeidaDesigner&layout=compact&langs_count=15&theme=tokyonight" />
+  <a href="https://github.com/DavidCreator">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidCreator&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidCreator&layout=compact&langs_count=15&theme=tokyonight" />
 </div>
 
 ##
@@ -76,7 +76,7 @@ const David = {
 </div>
 <br> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DavidAlmeidaDesigner)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DavidCreator)](https://github.com/ryo-ma/github-profile-trophy)
   
 <h3>🔍 Fun facts:</h3>
 
@@ -85,7 +85,7 @@ const David = {
 <!-- <p align="center"><img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1596034333343.png" alt="myoctocat" height="300" width="300"></p> -->
 
 <!--
-**DavidAlmedaDesigner/DavidAlmeidaDesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DavidCreator/DavidCreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
